@@ -11,7 +11,7 @@ html,body{
 }
 .wrapper{
     height: 100px;
-    width: 360px;
+    width: 360px; 
     cursor: default;
     user-select: none;
     background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0);
